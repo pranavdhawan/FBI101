@@ -4,3 +4,4 @@
 `python3 coordinates.py`\
 \
 `python3 logging.py`
+#### Clear `console.txt` before use.
